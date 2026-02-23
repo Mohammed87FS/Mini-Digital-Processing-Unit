@@ -1,4 +1,4 @@
-Processor Model
+4 bits CPU 
 
 ![Image](image_1.png)
 
